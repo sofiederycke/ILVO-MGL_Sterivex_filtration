@@ -58,7 +58,7 @@ samp_size_unit: # mL
 | PREPARED BY  | AFFILIATION  | ORCID        | DATE       |
 | ------------ | ------------ | ------------ | ---------- |
 | Sara Maes | ILVO Marine, MGL | 0000-0003-2868-4769 | 2025-07-24 |
-| Content Cell | Content Cell | Content Cell | yyyy-mm-dd |
+| Sofie Cell | Content Cell | Content Cell | yyyy-mm-dd |
 
 ### Related Protocols
 
